@@ -30,7 +30,7 @@ public class App {
 		e.printStackTrace();
 	}
 
-	System.out.println("Done the right way");
+	System.out.println("Done the right way !");
 
   }
 }
